@@ -1,0 +1,54 @@
+Mod description strings:
+["Mods_CreatedBy","Creators of this pit:"],
+["Mod_Name","Another Fallen"],
+["Mod_Description","The story about The Fallen"],
+["Mod_Author","Common User, Skeleton weldress, Raxkas"],
+["Mod_Link","github.com/Us3r-C"],
+
+Changelog:
+["Welcome_Title","Changelog"],
+["Welcome_Ok","Got it!"],
+["Welcome_Text_27_4",""],
+["Welcome_Text_28",""],
+["Welcome_Text_28_1",""],
+["Welcome_Text_28_2",""],
+["Welcome_Text_28_3",""],
+["Welcome_Text_28_4"
+,
+"
+v0:\n
+- \n
+- \n
+\n
+v1:\n
+- \n
+- \n
+"
+],
+
+The Fallen strings:
+["HeroClass_War",""],
+["HeroClass_WarPerks",""],
+["HeroSubClass_NameGlad",""],
+["HeroSubClass_DescGlad",""],
+["HeroSubClass_NameBers",""],
+["HeroSubClass_DescBers",""],
+["TomeOfMastery_Name","Book of Emptiness"],
+["TomeOfMastery_Info","This is very strange book. All pages are empty..."],
+["TomeOfMastery_Choose","How long have you been reading this book???"],
+
+Loading strings:
+["InterLevelScene_Descending","..."],
+["InterLevelScene_Ascending","..."],
+["InterLevelScene_Loading","..."],
+["InterLevelScene_Resurrecting","..."],
+["InterLevelScene_Returning","..."],
+["InterLevelScene_Falling","AAAAAAAH!!!!"],
+
+Difficultly strings:
+["StartScene_DifficultySelect",""],
+["StartScene_DifficultyEasy","Wanna practice my <null>"],
+["StartScene_DifficultyNormalWithSaves","Wanna practice my skill"],
+["StartScene_DifficultyNormal","Wanna test my skill"],
+["StartScene_DifficultyExpert","Wanna have a bad time"],
+["WndSaveSlotSelect_dontLike","Don't like ads? Nobody likes it."]
